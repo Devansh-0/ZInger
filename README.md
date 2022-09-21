@@ -1,2 +1,2 @@
-# ZInger
-A restaurant recommendation system
+# Zinger
+A restaurant recommendation system web application.
